@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 group :development do
   gem 'rake', '~> 10.0'
-  gem 'jekyll', '~> 3.0'
+  gem 'jekyll', '~> 3.9'
   gem 'compass', '~> 0.12'
   gem 'sass-globbing', '~> 1.0'
   gem 'stringex', '~> 1.4'
